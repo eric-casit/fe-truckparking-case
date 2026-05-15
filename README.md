@@ -26,14 +26,6 @@ GET https://truck-parking.staging.ndw.nu/api/parkings
 GET https://truck-parking.staging.ndw.nu/api/parkings/{id}
 ```
 
-## Starten
-
-```bash
-ng serve
-```
-
-Open je browser op `http://localhost:4200/`.
-
 ---
 
 **Tijd:** 2 uur — veel succes, stel gerust vragen!
