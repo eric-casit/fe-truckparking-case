@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://truck-parking.staging.ndw.nu",
+    "secure": true,
+    "changeOrigin": true
+  }
+}
