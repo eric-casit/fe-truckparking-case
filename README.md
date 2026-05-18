@@ -1,13 +1,14 @@
-# Case NDW – Front-end Developer
+# Case NDW - Frontend Developer
+
 ## Overzicht vrachtwagen parkeerplaatsen
 
 ## Achtergrond
 
-NDW beheert een API met gegevens over truckparkings in Nederland (locaties, capaciteit, voorzieningen en veiligheidsinformatie). Wegbeheerders en logistieke partijen willen snel inzicht in waar parkings zich bevinden en wat ze bieden.
+NDW beheert een API met gegevens over truckparkings in Nederland (locaties, capaciteit, voorzieningen en veiligheidsinformatie). Wegbeheerders en logistieke partijen willen snel zien waar parkings zich bevinden en wat ze te bieden hebben.
 
 ## Opdracht
 
-Bouw een interactieve verkenner-applicatie op basis van dit starter project. De applicatie moet minimaal het volgende bevatten:
+Bouw een applicatie op basis van dit starter project. De applicatie moet het volgende bevatten:
 
 1. **Kaart** — toon alle truckparkings als markers op de kaart
 2. **Filters** — geef de gebruiker de mogelijkheid om parkings te filteren op de kaart
@@ -28,4 +29,4 @@ GET https://truck-parking.staging.ndw.nu/api/parkings/{id}
 
 ---
 
-**Tijd:** 2 uur — veel succes, stel gerust vragen!
+**Tijd:** 2 uur. Veel succes, stel gerust vragen!
