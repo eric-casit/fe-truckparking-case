@@ -9,6 +9,6 @@ export class TruckParkingService {
   private readonly http = inject(HttpClient);
 
   getParkings() {
-    return this.http.get<Parking[]>('/api/parkings');
+    return this.http.get('/api/parkings');
   }
 }

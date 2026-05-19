@@ -10,7 +10,7 @@ NDW beheert een API met gegevens over truckparkings in Nederland (locaties, capa
 
 Bouw een applicatie op basis van dit starter project. De applicatie moet het volgende bevatten:
 
-1. **Kaart** — toon alle truckparkings als markers op de kaart
+1. **Kaart** — toon alle truckparkings op de kaart
 2. **Filters** — geef de gebruiker de mogelijkheid om parkings te filteren op de kaart
 3. **Detailweergave** — toon relevante details van een geselecteerde parking, waaronder capaciteit en beschikbare voorzieningen
 
